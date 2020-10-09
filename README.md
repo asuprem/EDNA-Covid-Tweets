@@ -1,6 +1,6 @@
 # EDNA-Covid-Tweets
 
-This is a sample of Tweet IDs of our EDNA-Covid dataset. We have provided details about the dataset in our paper [EDNA-COVID: A Large-Scale Covid-19 Dataset Collected with the EDNA Streaming Toolkit](https://arxiv.org/submit/3403766/view). The complete dataset includes over 600M tweets related to coronavirus collected since January, 2020.
+This is a sample of Tweet IDs of our EDNA-Covid dataset. We have provided details about the dataset in our paper [EDNA-COVID: A Large-Scale Covid-19 Dataset Collected with the EDNA Streaming Toolkit](https://arxiv.org/abs/2010.04084). The complete dataset includes over 600M tweets related to coronavirus collected since January, 2020.
 
 We have released the **first few months here**, and provide the rest through a registration method.
 
